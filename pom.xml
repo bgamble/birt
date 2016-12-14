@@ -27,7 +27,7 @@
                 <tycho.version>0.25.0</tycho.version>
                 <eclipse.repo.url>http://download.eclipse.org/eclipse/updates/4.7milestones/</eclipse.repo.url>
                 <emf.repo.url>http://download.eclipse.org/modeling/emf/emf/updates/2.13milestones/</emf.repo.url>
-                <gef.repo.url>http://download.eclipse.org/tools/gef/updates/milestones/</gef.repo.url>
+                <gef.repo.url>http://download.eclipse.org/tools/gef/updates/releases/</gef.repo.url>
                 <!-- https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F -->
                 <wtp.repo.url>http://download.eclipse.org/webtools/repository/oxygen/</wtp.repo.url>
                 <!-- http://download.eclipse.org/tools/orbit/downloads/ -->
