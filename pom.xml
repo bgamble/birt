@@ -105,7 +105,6 @@
 							</execution>
 						</executions>
 					</plugin>
-					<!--
 					<plugin>
 						<groupId>org.eclipse.cbi.maven.plugins</groupId>
 						<artifactId>eclipse-jarsigner-plugin</artifactId>
@@ -119,7 +118,6 @@
 							</execution>
 						</executions>
 					</plugin>
-					-->
 					<plugin>
 						<groupId>org.eclipse.tycho.extras</groupId>
 						<artifactId>tycho-pack200b-plugin</artifactId>
