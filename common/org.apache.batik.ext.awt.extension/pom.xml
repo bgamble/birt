@@ -25,9 +25,9 @@
 						</goals>
 					</execution>
 				</executions>
-				<configuraton>
+				<configuration>
 					<skip>true</skip>
-				</configuraton>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
